@@ -11,7 +11,7 @@ Dự án này thực hiện việc tích hợp xác thực người dùng thông
 ### Yêu cầu hệ thống:
 * PHP >= 8.2
 * Composer
-* MySQL/MariaDB
+* MySQL
 
 ### Các bước thực hiện:
 
