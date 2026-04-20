@@ -1,6 +1,6 @@
-Họ tên: Diêm Việt Anh
-Mã sinh viên: 23810310083
-Lớp: D18CNPM2
+* **Sinh viên:** Diêm Việt Anh
+* **MSV:** 23810310083
+* **Lớp:** D18CNPM2
 
 # Tích hợp Đăng nhập Social (Google & Facebook) với Laravel
 
